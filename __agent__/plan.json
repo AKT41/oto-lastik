@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Mevcut marka alanını slider yapısına dönüştür",
+      "status": "done"
+    },
+    {
+      "title": "Renkli ve arka plansız marka logolarını slidera yerleştir",
+      "status": "done"
+    },
+    {
+      "title": "Otomatik kaydırmayı ve responsive görünümü doğrula",
+      "status": "done"
+    }
+  ],
+  "updated_at": "2026-10-02T20:21:33.159Z",
+  "session_id": "01a0fc9f-95ed-7044-a10f-fc96207196a9"
+}
